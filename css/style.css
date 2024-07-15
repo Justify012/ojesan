@@ -562,10 +562,10 @@ form textarea {
     background-color: #05b4ff;
     color: white;
     text-align: center;
-    padding: 1rem 2rem;
-    font-size: 2rem;
+    padding: 10px 20px;
+    font-size: 20px;
     text-decoration: none;
-    border-radius: 10px;
+    border-radius: 15px;
   }
 
   .download-btn:hover{
